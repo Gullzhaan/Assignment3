@@ -1,0 +1,14 @@
+body {
+    background-image: url("back.jpg");
+    }
+hr {
+        margin-left: 0;
+        width: 300px;
+        background:black;
+    }
+.container {
+        font-size: 19px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        background-color:moccasin;
+    }
+    
